@@ -7,6 +7,4 @@ With this first version of MemeMe, students will create an app that enables a us
 # Why MemeMe-1.0
 MemeMe covers many of the major UI components found in essentially every app. It combines them with the camera and social media activity view to create a fun and personal user experience.
 
-![](MemeMe_1.0_Images/MemeMe_1.0_1.PNG) | ![](MemeMe_1.0_Images/MemeMe_1.0_2.PNG)
-
-<img src="MemeMe_1.0_Images/MemeMe_1.0_1.PNG" width="250"/> <img src="MemeMe_1.0_Images/MemeMe_1.0_2.PNG" width="250"/> 
+<img src="MemeMe_1.0_Images/MemeMe_1.0_1.PNG" width="250"/> <img src="MemeMe_1.0_Images/MemeMe_1.0_2.PNG" width="450"/> 
