@@ -9,4 +9,4 @@ MemeMe covers many of the major UI components found in essentially every app. It
 
 ![](MemeMe_1.0_Images/MemeMe_1.0_1.PNG) | ![](MemeMe_1.0_Images/MemeMe_1.0_2.PNG)
 
-<img src="MemeMe_1.0_Images/MemeMe_1.0_1.PNG" width="250"/> <img src="MemeMe_1.0_Images/MemeMe_1.0_2.PN" width="250"/> 
+<img src="MemeMe_1.0_Images/MemeMe_1.0_1.PNG" width="250"/> <img src="MemeMe_1.0_Images/MemeMe_1.0_2.PNG" width="250"/> 
